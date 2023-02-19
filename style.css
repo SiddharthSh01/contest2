@@ -1,0 +1,16 @@
+div {
+    margin: 30px;
+    border: 1px solid black;
+    width:200px;
+    outline-offset: 15px; 
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img {
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .side{
+    width:200px;
+  }
